@@ -1,0 +1,472 @@
+[
+  {
+    "id": "acp-cubido",
+    "name": "ACP CUBIDO Digital Solutions GmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.cubido.at/karriere/",
+    "aliases": ["ACP CUBIDO", "cubido"]
+  },
+  {
+    "id": "alpla",
+    "name": "ALPLA Werke Alwin Lehner GmbH & Co",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://career.alpla.com/",
+    "aliases": ["ALPLA"]
+  },
+  {
+    "id": "bmd",
+    "name": "BMD Systemhaus GesmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.bmd.com/at/das-ist-bmd/karriere.html",
+    "aliases": ["BMD", "BMD Systemhaus"]
+  },
+  {
+    "id": "bmeia",
+    "name": "BMEIA Bundesministerium für europäische und internationale Angelegenheiten",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.jobboerse.gv.at/",
+    "aliases": ["BMEIA"]
+  },
+  {
+    "id": "bmw-steyr",
+    "name": "BMW Group Werk Steyr",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.bmwgroup.jobs/at/de/standorte/steyr.html",
+    "aliases": ["BMW Group", "BMW Motoren", "BMW Steyr"]
+  },
+  {
+    "id": "bosch-at",
+    "name": "Bosch-Gruppe Österreich",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.bosch.at/karriere/",
+    "aliases": ["Bosch", "Robert Bosch"]
+  },
+  {
+    "id": "brp-rotax",
+    "name": "BRP-Rotax GmbH & Co KG",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.rotax.com/en/corporate/career.html",
+    "aliases": ["BRP-Rotax", "Rotax"]
+  },
+  {
+    "id": "calpana",
+    "name": "CALPANA business consulting GmbH",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://calpana.com/karriere/",
+    "aliases": ["CALPANA"]
+  },
+  {
+    "id": "come2upper-austria",
+    "name": "Come2Upper Austria",
+    "tier": "skip",
+    "enabled": false,
+    "adapter": "reference_only",
+    "career_url": "https://www.come2upperaustria.com/",
+    "notes": "Regional welcome/relocation initiative, not a direct tech employer."
+  },
+  {
+    "id": "delfort",
+    "name": "delfortgroup AG",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://delfortgroup.com/career/",
+    "aliases": ["delfort", "delfortgroup"]
+  },
+  {
+    "id": "deloitte-at",
+    "name": "Deloitte Services Wirtschaftsprüfungs GmbH",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www2.deloitte.com/at/de/pages/careers/karriere.html",
+    "aliases": ["Deloitte"]
+  },
+  {
+    "id": "ebner-group",
+    "name": "EBNER GROUP",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://ebnergroup.cc/karriere/",
+    "aliases": ["EBNER", "EBNER GROUP"]
+  },
+  {
+    "id": "engel-austria",
+    "name": "ENGEL AUSTRIA GmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://jobs.engelglobal.com/",
+    "aliases": ["ENGEL", "ENGEL AUSTRIA"]
+  },
+  {
+    "id": "eurofunk",
+    "name": "eurofunk KAPPACHER",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.eurofunk.com/karriere/",
+    "aliases": ["eurofunk"]
+  },
+  {
+    "id": "ev-group",
+    "name": "EV Group",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.evgroup.com/karriere/",
+    "aliases": ["EV Group", "EVG"]
+  },
+  {
+    "id": "fabasoft",
+    "name": "Fabasoft International Services GmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.fabasoft.com/de/karriere",
+    "aliases": ["Fabasoft"]
+  },
+  {
+    "id": "ferchau-at",
+    "name": "FERCHAU Austria GmbH",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.ferchau.com/at/de/karriere",
+    "aliases": ["FERCHAU"]
+  },
+  {
+    "id": "fill",
+    "name": "FILL Gesellschaft m.b.H.",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.fill.co.at/karriere",
+    "aliases": ["FILL", "Fill"]
+  },
+  {
+    "id": "fronius",
+    "name": "Fronius International GmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.fronius.com/de-at/austria/karriere/offene-stellen",
+    "aliases": ["Fronius"]
+  },
+  {
+    "id": "ge-healthcare-at",
+    "name": "GE HealthCare Austria GmbH & Co OG",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.gehealthcare.com/careers",
+    "aliases": ["GE HealthCare"]
+  },
+  {
+    "id": "grs",
+    "name": "GRS Wirtschaftsprüfung Steuerberatung GmbH",
+    "tier": "B",
+    "enabled": false,
+    "adapter": "auto",
+    "career_url": "https://www.grs.at/karriere/",
+    "aliases": ["GRS"],
+    "notes": "Tax/auditing firm; disabled by default for AI/SWE search, set enabled=true to watch."
+  },
+  {
+    "id": "hoedlmayr",
+    "name": "Hödlmayr International GmbH",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.hoedlmayr.com/de/karriere/",
+    "aliases": ["Hödlmayr", "Hoedlmayr"]
+  },
+  {
+    "id": "hofer-kg",
+    "name": "HOFER KG",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://karriere.hofer.at/",
+    "aliases": ["HOFER"]
+  },
+  {
+    "id": "incert",
+    "name": "incert eTourismus GmbH & Co KG",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.incert.at/unternehmen/karriere/",
+    "aliases": ["incert"]
+  },
+  {
+    "id": "infineon-at",
+    "name": "Infineon Technologies Austria AG",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/",
+    "aliases": ["Infineon"]
+  },
+  {
+    "id": "iwc-jku",
+    "name": "International Welcome Center | JKU Linz",
+    "tier": "skip",
+    "enabled": false,
+    "adapter": "reference_only",
+    "career_url": "https://www.jku.at/",
+    "notes": "University support office, not an employer."
+  },
+  {
+    "id": "ivm",
+    "name": "IVM Technical Consultants",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://jobs.ivm.at/",
+    "aliases": ["IVM"]
+  },
+  {
+    "id": "jku-alumni",
+    "name": "JKU Alumni Club",
+    "tier": "skip",
+    "enabled": false,
+    "adapter": "reference_only",
+    "career_url": "https://www.jku.at/alumni/",
+    "notes": "Alumni network booth."
+  },
+  {
+    "id": "jku-karrierecenter",
+    "name": "JKU Karrierecenter",
+    "tier": "A",
+    "enabled": false,
+    "adapter": "board_jku",
+    "career_url": "https://jobboerse.jku.at/",
+    "notes": "Monitored directly via the JKU Jobboerse board adapter."
+  },
+  {
+    "id": "jku-linz",
+    "name": "Johannes Kepler Universität Linz",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.jku.at/universitaet/arbeiten-an-der-jku/offene-stellen",
+    "aliases": ["JKU", "Johannes Kepler Universität"]
+  },
+  {
+    "id": "karriere-at",
+    "name": "karriere.at",
+    "tier": "A",
+    "enabled": false,
+    "adapter": "board_karriere_at",
+    "career_url": "https://www.karriere.at/",
+    "notes": "Monitored directly via the karriere.at board adapter."
+  },
+  {
+    "id": "keba",
+    "name": "KEBA Group AG",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://jobs.keba.com/",
+    "aliases": ["KEBA"]
+  },
+  {
+    "id": "kreisel-electric",
+    "name": "KREISEL Electric GmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://jobs.kreiselelectric.com/",
+    "aliases": ["KREISEL", "Kreisel Electric"]
+  },
+  {
+    "id": "koenig-solutions",
+    "name": "KS AT koenig.solutions GmbH",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.koenig.solutions/en/careers",
+    "aliases": ["koenig.solutions"]
+  },
+  {
+    "id": "land-ooe",
+    "name": "Land Oberösterreich",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.arbeiten-fuers-land.at/",
+    "aliases": ["Land Oberösterreich", "Land OÖ"]
+  },
+  {
+    "id": "liwest",
+    "name": "LIWEST Kabelmedien GmbH",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.liwest.at/karriere",
+    "aliases": ["LIWEST"]
+  },
+  {
+    "id": "mindbreeze",
+    "name": "Mindbreeze GmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.mindbreeze.com/careers",
+    "aliases": ["Mindbreeze"]
+  },
+  {
+    "id": "newvision",
+    "name": "newvision",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.newvision.eu/de/karriere",
+    "aliases": ["newvision"]
+  },
+  {
+    "id": "oberbank",
+    "name": "Oberbank AG",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.oberbank.at/karriere",
+    "aliases": ["Oberbank"]
+  },
+  {
+    "id": "ooe-nachrichten",
+    "name": "OÖNachrichten / Wimmer Medien GmbH & Co KG",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.medienhauswimmer.at/karriere",
+    "aliases": ["OÖNachrichten", "Wimmer Medien"]
+  },
+  {
+    "id": "pro2future",
+    "name": "Pro2Future GmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.pro2future.at/en/category/career/",
+    "aliases": ["Pro2Future", "Pro²Future"]
+  },
+  {
+    "id": "pwc-at",
+    "name": "PwC Österreich GmbH Wirtschaftsprüfungsgesellschaft",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.pwc.at/karriere",
+    "aliases": ["PwC"]
+  },
+  {
+    "id": "rlb-ooe",
+    "name": "Raiffeisenlandesbank OÖ",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.raiffeisen.at/ooe/de/karriere-bei-raiffeisen.html",
+    "aliases": ["Raiffeisenlandesbank", "RLB OÖ"]
+  },
+  {
+    "id": "rosenbauer",
+    "name": "Rosenbauer International AG",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.rosenbauer.com/de/at/world/karriere",
+    "aliases": ["Rosenbauer"]
+  },
+  {
+    "id": "schoenherr",
+    "name": "Schönherr Rechtsanwälte GmbH",
+    "tier": "skip",
+    "enabled": false,
+    "adapter": "reference_only",
+    "career_url": "https://www.schoenherr.eu/careers/",
+    "notes": "Corporate law firm; disabled by default for AI/SWE search."
+  },
+  {
+    "id": "solvistas",
+    "name": "solvistas GmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://solvistas.com/karriere/",
+    "aliases": ["solvistas"]
+  },
+  {
+    "id": "stadt-wels",
+    "name": "Stadt Wels",
+    "tier": "B",
+    "enabled": false,
+    "adapter": "auto",
+    "career_url": "https://www.wels.gv.at/leben-in-wels/arbeiten-und-wirtschaft/offene-stellen/",
+    "aliases": ["Stadt Wels"],
+    "notes": "Municipal public administration; disabled by default."
+  },
+  {
+    "id": "stiwa",
+    "name": "STIWA Group",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.stiwa.com/de/karriere/",
+    "aliases": ["STIWA"]
+  },
+  {
+    "id": "tgw-logistics",
+    "name": "TGW Logistics GmbH",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.tgw-group.com/en/career/job-offers",
+    "aliases": ["TGW", "TGW Logistics"]
+  },
+  {
+    "id": "uar",
+    "name": "Upper Austrian Research GmbH (UAR)",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.uar.at/en/about-us/job-offers/",
+    "aliases": ["UAR", "Upper Austrian Research"]
+  },
+  {
+    "id": "uniqa",
+    "name": "UNIQA Insurance Group AG",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.uniqagroup.com/grp/careers/",
+    "aliases": ["UNIQA"]
+  },
+  {
+    "id": "wh-dentalwerk",
+    "name": "W&H Dentalwerk Bürmoos GmbH",
+    "tier": "B",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://www.wh.com/de_at/karriere/",
+    "aliases": ["W&H", "W&H Dentalwerk"]
+  }
+]

@@ -1,0 +1,92 @@
+scoring:
+  min_notify_score: 3
+  high_priority_score: 6
+  max_bootstrap_alerts: 10
+  role_keywords:
+    - intern
+    - internship
+    - praktikum
+    - praktikant
+    - ferialpraktikum
+    - ferialjob
+    - working student
+    - werkstudent
+    - werkstudentin
+    - studentische mitarbeit
+    - junior
+    - trainee
+    - entry level
+    - berufseinstieg
+    - berufseinsteiger
+    - graduate
+    - bachelorarbeit
+    - masterarbeit
+    - thesis
+  domain_keywords:
+    - artificial intelligence
+    - ai
+    - ki
+    - künstliche intelligenz
+    - machine learning
+    - deep learning
+    - data science
+    - data scientist
+    - data engineer
+    - ai engineer
+    - genai
+    - generative ai
+    - llm
+    - nlp
+    - computer vision
+    - python
+    - software engineer
+    - software developer
+    - softwareentwickler
+    - softwareentwicklung
+    - backend
+    - mlops
+    - fastmcp
+    - rag
+    - automation
+  location_keywords:
+    - linz
+    - steyr
+    - wels
+    - hagenberg
+    - leonding
+    - marchtrenk
+    - sattledt
+    - schwertberg
+    - gunskirchen
+    - oberösterreich
+    - upper austria
+    - remote
+    - hybrid
+    - homeoffice
+  exclude_keywords:
+    - senior
+    - principal
+    - staff engineer
+    - head of
+    - director
+    - vp of
+    - teamlead
+    - teamleiter
+    - abteilungsleiter
+    - lehrling
+    - lehrstelle
+    - lehre
+    - ausbildung zum
+    - praktikum buchhaltung
+    - steuerberatung
+    - rechtsanwaltsanwärter
+
+boards:
+  jku_jobboerse_urls:
+    - https://jobboerse.jku.at/
+    - https://www.jku.at/universitaet/arbeiten-an-der-jku/offene-stellen
+  karriere_at_queries:
+    - https://www.karriere.at/jobs/artificial-intelligence/linz
+    - https://www.karriere.at/jobs/python/linz
+    - https://www.karriere.at/jobs/praktikum-it/linz
+    - https://www.karriere.at/jobs/werkstudent-it/linz
