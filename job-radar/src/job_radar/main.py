@@ -9,7 +9,7 @@ from pathlib import Path
 from job_radar.adapters.base import build_async_client
 from job_radar.adapters.boards import fetch_board_url
 from job_radar.adapters.html_links import fetch_company_jobs
-from job_radar.config import default_root, load_companies, load_profile
+from job_radar.config import default_root, load_companies, load_dotenv_if_present, load_profile
 from job_radar.models import AdapterOutcome, CompanyConfig, RunSummary, ScoredJob
 from job_radar.notifier import (
     chunk_messages,
@@ -59,6 +59,7 @@ async def run_radar(
 ) -> RunSummary:
     """Execute one full fetch -> deduplicate -> score -> notify cycle."""
     project_root = root or default_root()
+    load_dotenv_if_present(project_root / ".env")
     profile = load_profile(project_root / "config" / "profile.yaml")
     all_companies = load_companies(project_root / "data" / "companies.json")
 

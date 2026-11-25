@@ -1,0 +1,66 @@
+name: JKU Job Radar
+
+on:
+  schedule:
+    # Runs at 06:00, 12:00, and 18:00 UTC daily
+    - cron: "0 6,12,18 * * *"
+  workflow_dispatch:
+    inputs:
+      bootstrap:
+        description: "Bootstrap run (seeds seen_jobs.json and sends only top matches)"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Dry run (prints matches in logs without Telegram or committing)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: job-radar/pyproject.toml
+
+      - name: Install job-radar
+        working-directory: job-radar
+        run: pip install -e ".[dev]"
+
+      - name: Run unit tests
+        working-directory: job-radar
+        run: pytest -v
+
+      - name: Run job radar
+        working-directory: job-radar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python -m job_radar.main run --dry-run
+          elif [ "${{ github.event.inputs.bootstrap }}" = "true" ]; then
+            python -m job_radar.main run --bootstrap
+          else
+            python -m job_radar.main run
+          fi
+
+      - name: Commit updated seen_jobs.json
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add job-radar/data/seen_jobs.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(job-radar): update seen jobs state"
+            git push
+          fi
