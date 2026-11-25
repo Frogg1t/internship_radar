@@ -79,6 +79,22 @@ def test_extract_html_job_links_filters_nav_noise() -> None:
     assert jobs[0].url == "https://example.com/jobs/python-werkstudent"
 
 
+def test_extract_html_job_links_supports_rexx_and_cta_slugs() -> None:
+    html = """
+    <html><body>
+      <a href="https://chancen.eurofunk.com/DEVOPS-ENGINEER-mwd-de-j439.html">DEVOPS ENGINEER (m/w/d)</a>
+      <div class="card">
+        <h3>AI Software Engineer</h3>
+        <a href="https://example.com/de/karriere/entdecke-deinen-job-bei-fill/ai-software-engineer">ENTDECKE MEHR</a>
+      </div>
+    </body></html>
+    """
+    jobs = extract_html_job_links(html, "https://example.com/karriere", _sample_company())
+    assert len(jobs) == 2
+    assert jobs[0].title == "DEVOPS ENGINEER (m/w/d)"
+    assert jobs[1].title == "AI Software Engineer"
+
+
 def test_fetch_company_jobs_auto_follows_personio_hint() -> None:
     personio_xml = """<workzag-jobs><position><id>11</id><name>Junior AI Engineer</name><office>Linz</office></position></workzag-jobs>"""
 

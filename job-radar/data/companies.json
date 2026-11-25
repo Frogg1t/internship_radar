@@ -5,7 +5,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.cubido.at/karriere/",
+    "career_url": "https://bewerbung.acp-gruppe.com/interne-iframes?fid=cf2e45438974a8120a89a1d69b732b22",
     "aliases": ["ACP CUBIDO", "cubido"]
   },
   {
@@ -14,7 +14,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://career.alpla.com/",
+    "career_url": "https://career.alpla.com/de/search?currentPage=1&country=AT",
     "aliases": ["ALPLA"]
   },
   {
@@ -23,7 +23,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.bmd.com/at/das-ist-bmd/karriere.html",
+    "career_url": "https://www.bmd.com/at/karriere/jobs",
     "aliases": ["BMD", "BMD Systemhaus"]
   },
   {
@@ -49,8 +49,9 @@
     "name": "Bosch-Gruppe Österreich",
     "tier": "A",
     "enabled": true,
-    "adapter": "auto",
-    "career_url": "https://www.bosch.at/karriere/",
+    "adapter": "smartrecruiters",
+    "ats_slug": "BoschGroup",
+    "career_url": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings?country=at&limit=100",
     "aliases": ["Bosch", "Robert Bosch"]
   },
   {
@@ -59,7 +60,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.rotax.com/en/corporate/career.html",
+    "career_url": "https://www.karriere.at/f/brp-rotax",
     "aliases": ["BRP-Rotax", "Rotax"]
   },
   {
@@ -68,7 +69,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://calpana.com/karriere/",
+    "career_url": "https://calpana.com/aktuelle-jobs/",
     "aliases": ["CALPANA"]
   },
   {
@@ -86,7 +87,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://delfortgroup.com/career/",
+    "career_url": "https://delfortgroup.com/career/jobs/",
     "aliases": ["delfort", "delfortgroup"]
   },
   {
@@ -94,8 +95,9 @@
     "name": "Deloitte Services Wirtschaftsprüfungs GmbH",
     "tier": "B",
     "enabled": true,
-    "adapter": "auto",
-    "career_url": "https://www2.deloitte.com/at/de/pages/careers/karriere.html",
+    "adapter": "smartrecruiters",
+    "ats_slug": "DeloitteAustria",
+    "career_url": "https://api.smartrecruiters.com/v1/companies/DeloitteAustria/postings?limit=100",
     "aliases": ["Deloitte"]
   },
   {
@@ -104,7 +106,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://ebnergroup.cc/karriere/",
+    "career_url": "https://ebnergroup.cc/karriere",
     "aliases": ["EBNER", "EBNER GROUP"]
   },
   {
@@ -113,8 +115,17 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://jobs.engelglobal.com/",
+    "career_url": "https://www.karriere.at/f/engel-austria",
     "aliases": ["ENGEL", "ENGEL AUSTRIA"]
+  },
+  {
+    "id": "engel-internships",
+    "name": "ENGEL AUSTRIA GmbH (Internships / Praktikum)",
+    "tier": "A",
+    "enabled": true,
+    "adapter": "auto",
+    "career_url": "https://jobs-p.engelglobal.com/Jobs",
+    "aliases": ["ENGEL"]
   },
   {
     "id": "eurofunk",
@@ -122,7 +133,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.eurofunk.com/karriere/",
+    "career_url": "https://chancen.eurofunk.com/stellenangebote.html",
     "aliases": ["eurofunk"]
   },
   {
@@ -131,7 +142,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.evgroup.com/karriere/",
+    "career_url": "https://www.karriere.at/f/ev-group-evg",
     "aliases": ["EV Group", "EVG"]
   },
   {
@@ -140,7 +151,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.fabasoft.com/de/karriere",
+    "career_url": "https://www.fabasoft.com/de/karriere/jobs",
     "aliases": ["Fabasoft"]
   },
   {
@@ -149,7 +160,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.ferchau.com/at/de/karriere",
+    "career_url": "https://touch.ferchau.com/at/de?type=3",
     "aliases": ["FERCHAU"]
   },
   {
@@ -158,7 +169,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.fill.co.at/karriere",
+    "career_url": "https://www.fill.co.at/de/karriere/entdecke-deinen-job-bei-fill",
     "aliases": ["FILL", "Fill"]
   },
   {
@@ -167,8 +178,9 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.fronius.com/de-at/austria/karriere/offene-stellen",
-    "aliases": ["Fronius"]
+    "career_url": "https://fronius.wd3.myworkdayjobs.com/Job_Board",
+    "aliases": ["Fronius"],
+    "notes": "Workday portal may rate-limit automated requests; karriere.at queries provide fallback coverage."
   },
   {
     "id": "ge-healthcare-at",
@@ -176,7 +188,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.gehealthcare.com/careers",
+    "career_url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite",
     "aliases": ["GE HealthCare"]
   },
   {
@@ -195,7 +207,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.hoedlmayr.com/de/karriere/",
+    "career_url": "https://www.hoedlmayr.com/karriere/offene-stellen",
     "aliases": ["Hödlmayr", "Hoedlmayr"]
   },
   {
@@ -213,7 +225,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.incert.at/unternehmen/karriere/",
+    "career_url": "https://www.incert.at/ueber-uns/karriere/",
     "aliases": ["incert"]
   },
   {
@@ -222,7 +234,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/",
+    "career_url": "https://www.karriere.at/f/infineon-technologies-austria",
     "aliases": ["Infineon"]
   },
   {
@@ -240,7 +252,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://jobs.ivm.at/",
+    "career_url": "https://jobs.ivm.at/de/jobs",
     "aliases": ["IVM"]
   },
   {
@@ -267,7 +279,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.jku.at/universitaet/arbeiten-an-der-jku/offene-stellen",
+    "career_url": "https://karriere.jku.at/hcm/jobexchange/showJobOfferList.do",
     "aliases": ["JKU", "Johannes Kepler Universität"]
   },
   {
@@ -285,7 +297,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://jobs.keba.com/",
+    "career_url": "https://www.keba.com/de/corporate/career/aktuelle-jobs",
     "aliases": ["KEBA"]
   },
   {
@@ -294,7 +306,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://jobs.kreiselelectric.com/",
+    "career_url": "https://jobs.kreiselelectric.com/stellenangebote.html",
     "aliases": ["KREISEL", "Kreisel Electric"]
   },
   {
@@ -303,7 +315,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.koenig.solutions/en/careers",
+    "career_url": "https://jobs.koenig.solutions/",
     "aliases": ["koenig.solutions"]
   },
   {
@@ -321,7 +333,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.liwest.at/karriere",
+    "career_url": "https://www.karriere.at/f/liwest-kabelmedien",
     "aliases": ["LIWEST"]
   },
   {
@@ -330,7 +342,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.mindbreeze.com/careers",
+    "career_url": "https://www.mindbreeze.com/de/karriere",
     "aliases": ["Mindbreeze"]
   },
   {
@@ -339,7 +351,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.newvision.eu/de/karriere",
+    "career_url": "https://www.newvision.eu/karriere",
     "aliases": ["newvision"]
   },
   {
@@ -348,7 +360,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.oberbank.at/karriere",
+    "career_url": "https://www.oberbank.at/jobs",
     "aliases": ["Oberbank"]
   },
   {
@@ -357,7 +369,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.medienhauswimmer.at/karriere",
+    "career_url": "https://www.medienhauswimmer.at/karriere/",
     "aliases": ["OÖNachrichten", "Wimmer Medien"]
   },
   {
@@ -366,7 +378,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.pro2future.at/en/category/career/",
+    "career_url": "https://www.pro2future.at/karriere/",
     "aliases": ["Pro2Future", "Pro²Future"]
   },
   {
@@ -375,7 +387,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.pwc.at/karriere",
+    "career_url": "https://www.pwc.at/de/karriere.html",
     "aliases": ["PwC"]
   },
   {
@@ -384,7 +396,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.raiffeisen.at/ooe/de/karriere-bei-raiffeisen.html",
+    "career_url": "https://www.raiffeisen.at/ooe/de/karriere-bei-raiffeisen/stellenangebote.html",
     "aliases": ["Raiffeisenlandesbank", "RLB OÖ"]
   },
   {
@@ -393,7 +405,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.rosenbauer.com/de/at/world/karriere",
+    "career_url": "https://www.rosenbauer.com/de/karriere/jobs",
     "aliases": ["Rosenbauer"]
   },
   {
@@ -411,7 +423,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://solvistas.com/karriere/",
+    "career_url": "https://solvistas-gmbh.onlyfy.jobs/de",
     "aliases": ["solvistas"]
   },
   {
@@ -430,7 +442,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.stiwa.com/de/karriere/",
+    "career_url": "https://www.stiwa.com/karriere/offene-stellen",
     "aliases": ["STIWA"]
   },
   {
@@ -439,7 +451,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.tgw-group.com/en/career/job-offers",
+    "career_url": "https://www.tgw-group.com/en/career/jobs/",
     "aliases": ["TGW", "TGW Logistics"]
   },
   {
@@ -448,7 +460,7 @@
     "tier": "A",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.uar.at/en/about-us/job-offers/",
+    "career_url": "https://www.uar.at/en/career/job-offers",
     "aliases": ["UAR", "Upper Austrian Research"]
   },
   {
@@ -457,7 +469,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.uniqagroup.com/grp/careers/",
+    "career_url": "https://careers.uniqagroup.com/",
     "aliases": ["UNIQA"]
   },
   {
@@ -466,7 +478,7 @@
     "tier": "B",
     "enabled": true,
     "adapter": "auto",
-    "career_url": "https://www.wh.com/de_at/karriere/",
+    "career_url": "https://www.wh.com/de_global/karriere/offene-stellen",
     "aliases": ["W&H", "W&H Dentalwerk"]
   }
 ]

@@ -21,17 +21,44 @@ from job_radar.adapters.structured import (
 from job_radar.models import AdapterOutcome, CompanyConfig, RawJob
 
 _JOB_URL_PATTERN = re.compile(
-    r"(/job/|/jobs/|/jobdetail|/stellenangebot|/stelle/|/vacancy|/position|/offene-stellen/[^/?#]+|"
-    r"onlyfy\.jobs|prescreen\.io|jobs\.personio|myworkdayjobs|smartrecruiters|softgarden|rexx|"
-    r"karriere\.at/jobs/|jobboerse\.jku\.at/job)",
+    r"(/job/|/jobs/|/o/|/jobdetail|/stellenangebot|/stelle/|/vacancy|/position|"
+    r"/offene-stellen/[^/?#]+|/aktuelle-jobs/[^/?#]+|/entdecke-deinen-job-bei-fill/[^/?#]+|"
+    r"/karriere/(?:jobs|sales|it|technik)/[^/?#]+|showJobOfferDetail|"
+    r"-[a-z]{2}-j\d+\.html|"
+    r"onlyfy\.jobs/(?:de|en)/job/|prescreen\.io|jobs\.personio|myworkdayjobs|"
+    r"smartrecruiters|softgarden|rexx|karriere\.at/jobs/\d+|jobboerse\.jku\.at/job)",
     re.I,
 )
 _NOISE_TITLE_PATTERN = re.compile(
     r"^(mehr erfahren|details|weiterlesen|read more|learn more|apply now|jetzt bewerben|"
     r"datenschutz|impressum|cookies|kontakt|login|home|zurück|back|alle jobs|all jobs|"
-    r"karriere|careers|jobs|initiativbewerbung)$",
+    r"karriere|careers|jobs|initiativbewerbung|filter zurücksetzen|deutsch|english)$",
     re.I,
 )
+_GENERIC_CTA_PATTERN = re.compile(
+    r"^(entdecke mehr|job ansehen|mehr dazu|details|zu den details|zum job|more details)$",
+    re.I,
+)
+
+
+def _derive_title_for_cta(anchor, resolved_url: str) -> str:
+    """Recover a meaningful job title from nearby headings or URL slug for generic CTA links."""
+    container = anchor.parent
+    for _ in range(3):
+        if container is None:
+            break
+        heading = container.find(["h1", "h2", "h3", "h4", "strong"])
+        if heading:
+            text = " ".join(heading.get_text(" ").split())
+            if 6 <= len(text) <= 140 and not _GENERIC_CTA_PATTERN.match(text):
+                return text
+        container = container.parent
+
+    slug = urlparse(resolved_url).path.rstrip("/").split("/")[-1]
+    slug = re.sub(r"\.html?$", "", slug)
+    slug = re.sub(r"-[a-z]{2}-j\d+$", "", slug)
+    cleaned = " ".join(slug.replace("-", " ").replace("_", " ").split())
+    return cleaned.title() if len(cleaned) >= 6 else ""
 
 
 def extract_html_job_links(html: str, base_url: str, company: CompanyConfig) -> list[RawJob]:
@@ -53,11 +80,15 @@ def extract_html_job_links(html: str, base_url: str, company: CompanyConfig) -> 
             continue
 
         title = " ".join(anchor.get_text(" ").split())
+        is_job_url = bool(_JOB_URL_PATTERN.search(resolved))
+
+        if _GENERIC_CTA_PATTERN.match(title) and is_job_url:
+            title = _derive_title_for_cta(anchor, resolved)
+
         if len(title) < 6 or len(title) > 140 or _NOISE_TITLE_PATTERN.match(title):
             continue
 
         parent_text = " ".join(anchor.parent.get_text(" ").split()) if anchor.parent else ""
-        is_job_url = bool(_JOB_URL_PATTERN.search(resolved))
         # Also allow links inside explicit job-list elements if URL path has depth >= 2.
         path_segments = [seg for seg in parsed.path.split("/") if seg]
         if not is_job_url:

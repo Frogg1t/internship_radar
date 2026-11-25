@@ -84,7 +84,8 @@ scoring:
 boards:
   jku_jobboerse_urls:
     - https://jobboerse.jku.at/
-    - https://www.jku.at/universitaet/arbeiten-an-der-jku/offene-stellen
+    - https://jobboerse.jku.at/jobs/it-telekommunikation-0
+    - https://jobboerse.jku.at/jobs/forschung-entwicklung-0
   karriere_at_queries:
     - https://www.karriere.at/jobs/artificial-intelligence/linz
     - https://www.karriere.at/jobs/python/linz
