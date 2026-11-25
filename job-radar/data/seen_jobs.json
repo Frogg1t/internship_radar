@@ -1,5 +1,1678 @@
 {
-  "version": 1,
-  "last_run": null,
-  "jobs": {}
+  "jobs": {
+    "0116d8985c2243c5696ef3db": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.254313+00:00",
+      "last_seen": "2026-11-25T16:11:43.254313+00:00",
+      "notified": false,
+      "title": "Python in Traun",
+      "url": "https://www.karriere.at/jobs/python/traun"
+    },
+    "0131b2726cd93ed2ae3da73e": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.233504+00:00",
+      "last_seen": "2026-11-25T16:11:43.233504+00:00",
+      "notified": false,
+      "title": "IT-Spezialist:in AML, KYC & Compliance (m/w/d) - Vollzeit oder Teilzeit ab 30 Wochenstunden",
+      "url": "https://www.oberbank.at/jobs/it-spezialist-in-aml-kyc-compliance-vollzeit-oder-teilzeit-ab-30-wochenstunden-17804"
+    },
+    "01ee508813faed9f1db40555": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.249887+00:00",
+      "last_seen": "2026-11-25T16:11:43.249887+00:00",
+      "notified": false,
+      "title": "TRUMPF Maschinen Austria GmbH & Co. KG",
+      "url": "https://www.karriere.at/f/trumpf-maschinen-austria-co"
+    },
+    "032c1a5c0e93c79bdbbe4930": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.250368+00:00",
+      "last_seen": "2026-11-25T16:11:43.250368+00:00",
+      "notified": false,
+      "title": "Consultant SIEM, SOC & MDR (w/m/d)",
+      "url": "https://www.karriere.at/jobs/7860727"
+    },
+    "052ccb97deca6d149867c794": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.246324+00:00",
+      "last_seen": "2026-11-25T16:11:43.246324+00:00",
+      "notified": false,
+      "title": "Neukirchen bei Lambach ,",
+      "url": "https://www.karriere.at/jobs/neukirchen-bei-lambach"
+    },
+    "0531a8aa2c549795fa249bd0": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.261955+00:00",
+      "last_seen": "2026-11-25T16:11:43.261955+00:00",
+      "notified": false,
+      "title": "Innsbruck ,",
+      "url": "https://www.karriere.at/jobs/innsbruck"
+    },
+    "0573be5bd5b0bbeeaf47f22d": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.259897+00:00",
+      "last_seen": "2026-11-25T16:11:43.259897+00:00",
+      "notified": false,
+      "title": "Oberbank AG",
+      "url": "https://www.karriere.at/f/oberbank"
+    },
+    "0587148473bcb12921ef46db": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.267293+00:00",
+      "last_seen": "2026-11-25T16:11:43.267293+00:00",
+      "notified": false,
+      "title": "Marchtrenk ,",
+      "url": "https://www.karriere.at/jobs/marchtrenk"
+    },
+    "05b881f68d3e18eb14ac2e9e": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.258452+00:00",
+      "last_seen": "2026-11-25T16:11:43.258452+00:00",
+      "notified": false,
+      "title": "Salzburg (Stadt) ,",
+      "url": "https://www.karriere.at/jobs/salzburg-stadt"
+    },
+    "060b0c98c2c1b33abc8d80be": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.236424+00:00",
+      "last_seen": "2026-11-25T16:11:43.236424+00:00",
+      "notified": false,
+      "title": "(Senior) Product Manager Software & AI (m/w/d)",
+      "url": "https://www.karriere.at/jobs/10034573"
+    },
+    "072e863aec27fd2ebc370195": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.246577+00:00",
+      "last_seen": "2026-11-25T16:11:43.829365+00:00",
+      "notified": true,
+      "title": "Software Engineer – Odoo & AI Solutions (w/m/d)",
+      "url": "https://www.karriere.at/jobs/10028125"
+    },
+    "080e9bb614e8b8911a2c1f63": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.260617+00:00",
+      "last_seen": "2026-11-25T16:11:43.260617+00:00",
+      "notified": false,
+      "title": "Ferial-/Pflichtpraktikum Sommer 2027 (w/m/div)",
+      "url": "https://www.karriere.at/jobs/7902082"
+    },
+    "0877f43a6995821a59aa45da": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.236341+00:00",
+      "last_seen": "2026-11-25T16:11:43.236341+00:00",
+      "notified": false,
+      "title": "Wels ,",
+      "url": "https://www.karriere.at/jobs/wels"
+    },
+    "09c3ba56639fbf87fb660a55": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.216389+00:00",
+      "last_seen": "2026-11-25T16:11:43.216389+00:00",
+      "notified": false,
+      "title": "Production (10)",
+      "url": "https://delfortgroup.com/career/jobs?position=production"
+    },
+    "0b334e0d0a3db152f42089c2": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.266357+00:00",
+      "last_seen": "2026-11-25T16:11:43.266357+00:00",
+      "notified": false,
+      "title": "Werkstudent (w/m/d) Produktion - Schwerpunkt TPM",
+      "url": "https://www.karriere.at/jobs/7904384"
+    },
+    "0bb9ce522597f78b2fe24876": {
+      "company_id": "fronius",
+      "first_seen": "2026-11-25T16:11:43.265844+00:00",
+      "last_seen": "2026-11-25T16:11:43.265844+00:00",
+      "notified": false,
+      "title": "Fronius",
+      "url": "https://www.karriere.at/f/fronius"
+    },
+    "0bc135078bad4df830aadb70": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.265388+00:00",
+      "last_seen": "2026-11-25T16:11:43.265388+00:00",
+      "notified": false,
+      "title": "Werkstudent IT",
+      "url": "https://www.karriere.at/jobs/werkstudent-it"
+    },
+    "0d41ff5038d7be43d6a7198d": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.241335+00:00",
+      "last_seen": "2026-11-25T16:11:43.241335+00:00",
+      "notified": false,
+      "title": "Datenpol Gmbh",
+      "url": "https://www.karriere.at/f/datenpol"
+    },
+    "0d7efa9c76a25b9c09868cb3": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.252035+00:00",
+      "last_seen": "2026-11-25T16:11:43.252035+00:00",
+      "notified": false,
+      "title": "Applikationsmanager.in und Digitalisierungsexperte:in (all genders)",
+      "url": "https://www.karriere.at/jobs/7904690"
+    },
+    "0f3f0a46ce16ec7ec41fdc87": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.249336+00:00",
+      "last_seen": "2026-11-25T16:11:43.249336+00:00",
+      "notified": false,
+      "title": "Hagenberg im Mühlkreis ,",
+      "url": "https://www.karriere.at/jobs/hagenberg-im-m%C3%BChlkreis"
+    },
+    "0f974825d3e37806c3aa09d3": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.264854+00:00",
+      "last_seen": "2026-11-25T16:11:43.264854+00:00",
+      "notified": false,
+      "title": "3 Banken IT GmbH",
+      "url": "https://www.karriere.at/f/3-banken-it"
+    },
+    "101eda8118cb72560ae8943f": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.227760+00:00",
+      "last_seen": "2026-11-25T16:11:43.227760+00:00",
+      "notified": false,
+      "title": "Spezialist*in Projekteinkauf (m/w/d) Globales Lieferantenmanagement von 4.800 bis 5.600 Euro Großraum Graz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/spezialist-in-projekteinkauf-m-w-d"
+    },
+    "1134fa7de097694f1d976a02": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.247466+00:00",
+      "last_seen": "2026-11-25T16:11:43.247466+00:00",
+      "notified": false,
+      "title": "Software Quality Engineer (w/m/x)",
+      "url": "https://www.karriere.at/jobs/7893505"
+    },
+    "1214cd34df902e7c8397d6ac": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.244360+00:00",
+      "last_seen": "2026-11-25T16:11:43.829357+00:00",
+      "notified": true,
+      "title": "Backend Entwickler Python (w/m/x)",
+      "url": "https://www.karriere.at/jobs/7899004"
+    },
+    "138a1fc1d56dca019138469d": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.254536+00:00",
+      "last_seen": "2026-11-25T16:11:43.254536+00:00",
+      "notified": false,
+      "title": "Python in Gallneukirchen",
+      "url": "https://www.karriere.at/jobs/python/gallneukirchen"
+    },
+    "15a70fd5df664dd7a7c4d4de": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.247228+00:00",
+      "last_seen": "2026-11-25T16:11:43.247228+00:00",
+      "notified": false,
+      "title": "Graz ,",
+      "url": "https://www.karriere.at/jobs/graz"
+    },
+    "1d86f3cd66392260aefca02a": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.261394+00:00",
+      "last_seen": "2026-11-25T16:11:43.261394+00:00",
+      "notified": false,
+      "title": "Graz ,",
+      "url": "https://www.karriere.at/jobs/graz"
+    },
+    "1ed0aa8b4059ac7aab0adfb3": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.263656+00:00",
+      "last_seen": "2026-11-25T16:11:43.829332+00:00",
+      "notified": true,
+      "title": "AI & ML Intern – Full Stack Developer (m/f/d)",
+      "url": "https://www.karriere.at/jobs/7866067"
+    },
+    "1f61491a2c96a54e77d28439": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.263138+00:00",
+      "last_seen": "2026-11-25T16:11:43.263138+00:00",
+      "notified": false,
+      "title": "Legal Counsel (m/w/d)",
+      "url": "https://www.karriere.at/jobs/7899430"
+    },
+    "1f693906571ca650a9703ce7": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.258205+00:00",
+      "last_seen": "2026-11-25T16:11:43.258205+00:00",
+      "notified": false,
+      "title": "EY Law – Pelzmann Gall Größ Rechtsanwälte",
+      "url": "https://www.karriere.at/f/ey-law"
+    },
+    "203dd7d012f21060eac2d39e": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.221072+00:00",
+      "last_seen": "2026-11-25T16:11:43.221072+00:00",
+      "notified": false,
+      "title": "Real Estate Manager*in (m/w/d) von 4.000 bis 4.800 Euro Graz Umgebung-Ost Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/real-estate-manager-in-m-w-d-dd19e0a9-6db4-450c-8a00-fae60fafb4d2"
+    },
+    "205db26026893167a9055ccc": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.258729+00:00",
+      "last_seen": "2026-11-25T16:11:43.258729+00:00",
+      "notified": false,
+      "title": "Praktikum Technology Consulting mit möglichem Berufseinstieg",
+      "url": "https://www.karriere.at/jobs/7868518"
+    },
+    "214403d1a4427997e25ecabe": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.240124+00:00",
+      "last_seen": "2026-11-25T16:11:43.240124+00:00",
+      "notified": false,
+      "title": "AI & Data Consultant - Microsoft Azure (m/w/x)",
+      "url": "https://www.karriere.at/jobs/7901548"
+    },
+    "214646f606e570901caf9999": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.231262+00:00",
+      "last_seen": "2026-11-25T16:11:43.231262+00:00",
+      "notified": false,
+      "title": "IT-Spezialist:in im Bereich Zahlungsverkehr (Geldwäsche Prävention und Fraud) (w/m/d)",
+      "url": "https://www.oberbank.at/jobs/it-spezialist-in-im-bereich-zahlungsverkehr-geldwaesche-praevention-und-fraud-18208"
+    },
+    "21b74c04fa501a91e788bf45": {
+      "company_id": "bosch-at",
+      "first_seen": "2026-11-25T16:11:43.245302+00:00",
+      "last_seen": "2026-11-25T16:11:43.245302+00:00",
+      "notified": false,
+      "title": "Bosch-Gruppe Österreich",
+      "url": "https://www.karriere.at/f/bosch-gruppe-%C3%B6sterreich"
+    },
+    "22908c6664aceb7be63d5664": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.237190+00:00",
+      "last_seen": "2026-11-25T16:11:43.237190+00:00",
+      "notified": false,
+      "title": "Software Development mit Artificial Intelligence (m/f/d)",
+      "url": "https://www.karriere.at/jobs/10039233"
+    },
+    "23316d2208b9452d96f959c9": {
+      "company_id": "bmeia",
+      "first_seen": "2026-11-25T16:11:43.214885+00:00",
+      "last_seen": "2026-11-25T16:11:43.214885+00:00",
+      "notified": false,
+      "title": "Bewerben",
+      "url": "https://bund.jobboerse.gv.at/sap/bc/jobs"
+    },
+    "23b5f81b4557a62eb8785b7b": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.248141+00:00",
+      "last_seen": "2026-11-25T16:11:43.248141+00:00",
+      "notified": false,
+      "title": "DevSecOps Engineer (m/w/d)*",
+      "url": "https://www.karriere.at/jobs/7842368"
+    },
+    "23d90b647f876a7c907f1b09": {
+      "company_id": "stiwa",
+      "first_seen": "2026-11-25T16:11:43.249081+00:00",
+      "last_seen": "2026-11-25T16:11:43.249081+00:00",
+      "notified": false,
+      "title": "STIWA Group",
+      "url": "https://www.karriere.at/f/stiwa-group"
+    },
+    "24ad460e37178b7a73f3934b": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.237887+00:00",
+      "last_seen": "2026-11-25T16:11:43.829348+00:00",
+      "notified": true,
+      "title": "Fullstack AI Engineer (m/w/d)",
+      "url": "https://www.karriere.at/jobs/10037894"
+    },
+    "265d38589485cbcb363cdcb9": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.243377+00:00",
+      "last_seen": "2026-11-25T16:11:43.243377+00:00",
+      "notified": false,
+      "title": "Banner Group",
+      "url": "https://www.karriere.at/f/banner"
+    },
+    "266087028f857896502d6223": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.225023+00:00",
+      "last_seen": "2026-11-25T16:11:43.225023+00:00",
+      "notified": false,
+      "title": "Projektleiter*in Elektrotechnik (m/w/d) Bahn- und Straßeninfrastruktur ab € 4.500,- Innsbruck Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/projektleiter-in-elektrotechnik-m-w-d-714cad72-cdc0-452d-bd78-11e9fa1d80d9"
+    },
+    "267f8f36a7c8edfc86cce4b6": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.228744+00:00",
+      "last_seen": "2026-11-25T16:11:43.228744+00:00",
+      "notified": false,
+      "title": "Elektrokonstruktion E-PLAN (m/w/d) Sondermaschinen- und Anlagenbau von 4.000 bis 4.500 Euro Südweststeiermark Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/elektrokonstruktion-e-plan-m-w-d-sondermaschinen-und-anlagenbau"
+    },
+    "26a68fcef2a9573ec290b454": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.262694+00:00",
+      "last_seen": "2026-11-25T16:11:43.262694+00:00",
+      "notified": false,
+      "title": "Techniker Rohrleitungsplanung und Anlagenbau (m/w/x)",
+      "url": "https://www.karriere.at/jobs/7914704"
+    },
+    "2717071f9c7172da829b250d": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.254098+00:00",
+      "last_seen": "2026-11-25T16:11:43.254098+00:00",
+      "notified": false,
+      "title": "Python in Pasching",
+      "url": "https://www.karriere.at/jobs/python/pasching"
+    },
+    "2b3db1fe407192503e68b351": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.241123+00:00",
+      "last_seen": "2026-11-25T16:11:43.829352+00:00",
+      "notified": true,
+      "title": "Software Engineer – Odoo & AI Solutions (w/m/d)",
+      "url": "https://www.karriere.at/jobs/10028125"
+    },
+    "2bbcfcfd005e55484d84937a": {
+      "company_id": "hofer-kg",
+      "first_seen": "2026-11-25T16:11:43.219744+00:00",
+      "last_seen": "2026-11-25T16:11:43.219744+00:00",
+      "notified": false,
+      "title": "Lagermitarbeiter Wareneingangskontrolle (m/w/d)",
+      "url": "https://karriere.hofer.at/job/1375904633"
+    },
+    "2be0f5fd2fcb0b5319bcd906": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.234177+00:00",
+      "last_seen": "2026-11-25T16:11:43.234177+00:00",
+      "notified": false,
+      "title": "Treasury Spezialist:in (w/m/d) - Geschäftsstellenbetreuung",
+      "url": "https://www.oberbank.at/jobs/treasury-spezialist-in-geschaeftsstellenbetreuung-18105"
+    },
+    "2ca83b3d9ca9ba4b819a5542": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.231691+00:00",
+      "last_seen": "2026-11-25T16:11:43.231691+00:00",
+      "notified": false,
+      "title": "Ferialaushilfe Niederösterreich und Burgenland (w/m/d) - Sommer 2027",
+      "url": "https://www.oberbank.at/jobs/ferialaushilfe-niederoesterreich-und-burgenland-sommer-2027-17834"
+    },
+    "2d6187ec22b86b269fa3ad3c": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.253651+00:00",
+      "last_seen": "2026-11-25T16:11:43.253651+00:00",
+      "notified": false,
+      "title": "Software Entwickler in Linz",
+      "url": "https://www.karriere.at/jobs/software-entwickler/linz"
+    },
+    "2dc515975a0f83557a1e1887": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.261685+00:00",
+      "last_seen": "2026-11-25T16:11:43.261685+00:00",
+      "notified": false,
+      "title": "Klagenfurt am Wörthersee ,",
+      "url": "https://www.karriere.at/jobs/klagenfurt-am-w%C3%B6rthersee"
+    },
+    "2dea34cc1de16b13ee27be10": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.257944+00:00",
+      "last_seen": "2026-11-25T16:11:43.257944+00:00",
+      "notified": false,
+      "title": "Sommerpraktikum 2027",
+      "url": "https://www.karriere.at/jobs/7903976"
+    },
+    "2e42968df1b46f27551c60ee": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.229463+00:00",
+      "last_seen": "2026-11-25T16:11:43.229463+00:00",
+      "notified": false,
+      "title": "Projektleitung Gebäudetechnik (m/w/d) Projektleitung | Koordination ab € 3.800,- Wien Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/projektleitung-gebaudetechnik-m-w-d-1803d648-67be-448c-8d5e-ac840a62f067"
+    },
+    "30b0651772f0e1700951af74": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.252503+00:00",
+      "last_seen": "2026-11-25T16:11:43.252503+00:00",
+      "notified": false,
+      "title": "Cloud Data Platform Engineer (m/w/d)",
+      "url": "https://www.karriere.at/jobs/10038618"
+    },
+    "311ead52ec013db5d47a80eb": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.224339+00:00",
+      "last_seen": "2026-11-25T16:11:43.224339+00:00",
+      "notified": false,
+      "title": "Teamleiter* in (m/w/d) Infrastrukturplanung ab € 5.000,- Bezirk Baden Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/teamleiter-in-m-w-d-infrastrukturplanung"
+    },
+    "31966f6f642133e2f51bbae7": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.231989+00:00",
+      "last_seen": "2026-11-25T16:11:43.231989+00:00",
+      "notified": false,
+      "title": "Application Security Engineer (w/m/d)",
+      "url": "https://www.oberbank.at/jobs/application-security-engineer-16705"
+    },
+    "31b113316af2a81e7156f014": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.243881+00:00",
+      "last_seen": "2026-11-25T16:11:43.243881+00:00",
+      "notified": false,
+      "title": "XXXLdigital – Part of XXXL Group",
+      "url": "https://www.karriere.at/f/xxxldigital"
+    },
+    "31cdb8395d2d93fc5e3a1392": {
+      "company_id": "liwest",
+      "first_seen": "2026-11-25T16:11:43.265144+00:00",
+      "last_seen": "2026-11-25T16:11:43.265144+00:00",
+      "notified": false,
+      "title": "LIWEST",
+      "url": "https://www.karriere.at/f/liwest"
+    },
+    "320390215fb1984bfbf594c1": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.222890+00:00",
+      "last_seen": "2026-11-25T16:11:43.222890+00:00",
+      "notified": false,
+      "title": "Area Sales Manager*in (m/w/d) - Europa ab € 4.500,- Wels Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/area-sales-manager-in-m-w-d-europa-ab9b8359-6efb-4f85-ad52-d395208551f6"
+    },
+    "323de5734fc048d4cf77d95a": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.237402+00:00",
+      "last_seen": "2026-11-25T16:11:43.237402+00:00",
+      "notified": false,
+      "title": "ventopay gmbh",
+      "url": "https://www.karriere.at/f/ventopay"
+    },
+    "34c81f234f00e80bd9520ec0": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.225746+00:00",
+      "last_seen": "2026-11-25T16:11:43.225746+00:00",
+      "notified": false,
+      "title": "Mitarbeiter*in Kundendienst (m/w/d) Reklamationsmanagement und Qualitätskoordination von 4.000 bis 4.800 Euro Großraum Graz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/mitarbeiter-in-kundendienst-m-w-d"
+    },
+    "378dea7d9fb88fa60aa207fa": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.222604+00:00",
+      "last_seen": "2026-11-25T16:11:43.222604+00:00",
+      "notified": false,
+      "title": "Logistik-Koordinator*in (m/w/d) Logistik | Supply Chain ab € 2.510,- Schladming Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/logistik-koordinator-in-m-w-d-logistik-supply-chain"
+    },
+    "3d0331b01f42908e23ef88ac": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.245075+00:00",
+      "last_seen": "2026-11-25T16:11:43.829360+00:00",
+      "notified": true,
+      "title": "Backend Developer Python mit Schwerpunkt Data Platform & Cloud (w/m/div.)",
+      "url": "https://www.karriere.at/jobs/7912013"
+    },
+    "3df21a018470ab259d39615d": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.223270+00:00",
+      "last_seen": "2026-11-25T16:11:43.223270+00:00",
+      "notified": false,
+      "title": "Technischer Servicedienst (m/w/d) Wärmeanlagentechnik - Kärnten und Steiermark von 3.800 bis 4.500 Euro Oststeiermark Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/technischer-servicedienst-m-w-d"
+    },
+    "422d7d946bf10cced314b868": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.227409+00:00",
+      "last_seen": "2026-11-25T16:11:43.227409+00:00",
+      "notified": false,
+      "title": "Projektleiter*in Kältetechnik (m/w/d) Industriekälte | Wärmepumpen | Anlagenbau ab € 3.400,- Lauterach 6923 Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/projektleiter-in-kaltetechnik-m-w-d-industriekalte-warmepumpen-anlagenbau"
+    },
+    "42b719f1f138eae78434d064": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.248858+00:00",
+      "last_seen": "2026-11-25T16:11:43.248858+00:00",
+      "notified": false,
+      "title": "Senior Software Developer (m/w/d)",
+      "url": "https://www.karriere.at/jobs/10039256"
+    },
+    "43eed6b1a8f88ab95f1a402a": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.215155+00:00",
+      "last_seen": "2026-11-25T16:11:43.215155+00:00",
+      "notified": false,
+      "title": "Job Portal Apply now",
+      "url": "https://delfortgroup.com/career/jobs"
+    },
+    "448ce541aab0f21f2a462c2f": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.251747+00:00",
+      "last_seen": "2026-11-25T16:11:43.251747+00:00",
+      "notified": false,
+      "title": "karriere.at",
+      "url": "https://www.karriere.at/f/karriere-at"
+    },
+    "451ece00c8e1d6e2be61a436": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.226404+00:00",
+      "last_seen": "2026-11-25T16:11:43.226404+00:00",
+      "notified": false,
+      "title": "EPLAN Techniker*in (m/w/d) Schaltanlagenbau ab € 4.200,- Wien Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/eplan-techniker-in-m-w-d"
+    },
+    "4a5985fdecbea0f5e6348243": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.255842+00:00",
+      "last_seen": "2026-11-25T16:11:43.255842+00:00",
+      "notified": false,
+      "title": "Senior Jurist IT- und Softwarerecht (m/w/d)",
+      "url": "https://www.karriere.at/jobs/7882012"
+    },
+    "4c81b000911f6af6369baa38": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.222285+00:00",
+      "last_seen": "2026-11-25T16:11:43.222285+00:00",
+      "notified": false,
+      "title": "C++ Entwickler*in (m/w/d) für digitale Industrielösungen ab € 4.400,- Linz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/c-entwickler-in-m-w-d"
+    },
+    "52e9d3995fe69dc3de8a4721": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.243159+00:00",
+      "last_seen": "2026-11-25T16:11:43.243159+00:00",
+      "notified": false,
+      "title": "Digitalization & AI Solution Consultant (m/w/d)",
+      "url": "https://www.karriere.at/jobs/7909790"
+    },
+    "575600177763d094398d0359": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.256093+00:00",
+      "last_seen": "2026-11-25T16:11:43.256093+00:00",
+      "notified": false,
+      "title": "XXXLdigital – Part of XXXL Group",
+      "url": "https://www.karriere.at/f/xxxldigital"
+    },
+    "5de827c0855a566fb20cfa1c": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.230842+00:00",
+      "last_seen": "2026-11-25T16:11:43.230842+00:00",
+      "notified": false,
+      "title": "Corporate Banker:in Advanced (w/m/d)",
+      "url": "https://www.oberbank.at/jobs/corporate-banker-in-advanced-18209"
+    },
+    "5e54df558fb0e3d1279c65e5": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.224679+00:00",
+      "last_seen": "2026-11-25T16:11:43.224679+00:00",
+      "notified": false,
+      "title": "Projektleiter*in TGA/HKLS/Maschinenbau (m/w/d) Technische Gebäudeausrüstung ab € 4.500,- Innsbruck Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/projektleiter-in-tga-hkls-maschinenbau-m-w-d-technische-gebaudeausrustung"
+    },
+    "5fe546ccba58cfc7b83897a1": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.254758+00:00",
+      "last_seen": "2026-11-25T16:11:43.254758+00:00",
+      "notified": false,
+      "title": "Esg in Kalsdorf bei Graz",
+      "url": "https://www.karriere.at/jobs/esg/kalsdorf-bei-graz"
+    },
+    "60645a05db3fbf1bf7659f6c": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.232315+00:00",
+      "last_seen": "2026-11-25T16:11:43.232315+00:00",
+      "notified": false,
+      "title": "Karrierechance: General Banker:in (w/m/d)",
+      "url": "https://www.oberbank.at/jobs/karrierechance-general-banker-in-18108"
+    },
+    "60cbe732f9c34582c1738acf": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.221956+00:00",
+      "last_seen": "2026-11-25T16:11:43.221956+00:00",
+      "notified": false,
+      "title": "Intralogistik Engineer (m/w/d) Planung und Layout ab € 4.000,- Graz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/intralogistik-engineer-m-w-d"
+    },
+    "6127d53143fb7d2b0b364571": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.239612+00:00",
+      "last_seen": "2026-11-25T16:11:43.239612+00:00",
+      "notified": false,
+      "title": "Cyber AI Transformation Lead (w/m/d)",
+      "url": "https://www.karriere.at/jobs/7862629"
+    },
+    "61775214a7fc1e6308a09e90": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.221362+00:00",
+      "last_seen": "2026-11-25T16:11:43.221362+00:00",
+      "notified": false,
+      "title": "Leiter*in KI-Transformation (m/w/d) ab € 4.400,- Linz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/leiter-in-ki-transformation-m-w-d"
+    },
+    "61bc09c6e68d6ea85d4faa56": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.238408+00:00",
+      "last_seen": "2026-11-25T16:11:43.238408+00:00",
+      "notified": false,
+      "title": "(Senior) AI Solutions Engineer (w/m/d)",
+      "url": "https://www.karriere.at/jobs/10038824"
+    },
+    "6272ba046ad8bce8598c2cc6": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.262904+00:00",
+      "last_seen": "2026-11-25T16:11:43.262904+00:00",
+      "notified": false,
+      "title": "BEKO Solutions GmbH",
+      "url": "https://www.karriere.at/f/beko-engineering-informatik-wien"
+    },
+    "635de669719f0482166e4604": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.262435+00:00",
+      "last_seen": "2026-11-25T16:11:43.262435+00:00",
+      "notified": false,
+      "title": "eXperts consulting center",
+      "url": "https://www.karriere.at/f/experts-consulting-center"
+    },
+    "6382d582c02cfea9c7dec0a0": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.242833+00:00",
+      "last_seen": "2026-11-25T16:11:43.242833+00:00",
+      "notified": false,
+      "title": "Salzburg ,",
+      "url": "https://www.karriere.at/jobs/salzburg"
+    },
+    "650db725072a6f5792c1fe38": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.242068+00:00",
+      "last_seen": "2026-11-25T16:11:43.242068+00:00",
+      "notified": false,
+      "title": "Sparkasse OÖ",
+      "url": "https://www.karriere.at/f/sparkasse-o%C3%B6"
+    },
+    "65349a5f92ffc159e9305092": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.253868+00:00",
+      "last_seen": "2026-11-25T16:11:43.253868+00:00",
+      "notified": false,
+      "title": "Python in Leonding",
+      "url": "https://www.karriere.at/jobs/python/leonding"
+    },
+    "65e60f4b21d1b80d93f758ff": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.247009+00:00",
+      "last_seen": "2026-11-25T16:11:43.247009+00:00",
+      "notified": false,
+      "title": "Wien ,",
+      "url": "https://www.karriere.at/jobs/wien"
+    },
+    "668f9be7fe1ee3ccab2bc171": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.237655+00:00",
+      "last_seen": "2026-11-25T16:11:43.237655+00:00",
+      "notified": false,
+      "title": "Hagenberg im Mühlkreis ,",
+      "url": "https://www.karriere.at/jobs/hagenberg-im-m%C3%BChlkreis"
+    },
+    "66cdb04bd526485ca4259a85": {
+      "company_id": "solvistas",
+      "first_seen": "2026-11-25T16:11:43.234928+00:00",
+      "last_seen": "2026-11-25T16:11:43.234928+00:00",
+      "notified": false,
+      "title": "Hier findest du unsere offenen Stellen.",
+      "url": "https://solvistas-gmbh.onlyfy.jobs/de"
+    },
+    "67880115906fc13a2a8a566c": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.252969+00:00",
+      "last_seen": "2026-11-25T16:11:43.252969+00:00",
+      "notified": false,
+      "title": "Java in Linz",
+      "url": "https://www.karriere.at/jobs/java/linz"
+    },
+    "67b5bad83e220b4f06c71dba": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.252734+00:00",
+      "last_seen": "2026-11-25T16:11:43.252734+00:00",
+      "notified": false,
+      "title": "Cloud Data Platform Engineer*",
+      "url": "https://www.karriere.at/jobs/10038568"
+    },
+    "68ecf216403d8accb5ae70ba": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.257727+00:00",
+      "last_seen": "2026-11-25T16:11:43.257727+00:00",
+      "notified": false,
+      "title": "Marchtrenk ,",
+      "url": "https://www.karriere.at/jobs/marchtrenk"
+    },
+    "69b047d11606dac72edec1c0": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.217186+00:00",
+      "last_seen": "2026-11-25T16:11:43.217186+00:00",
+      "notified": false,
+      "title": "Technical Experts (0)",
+      "url": "https://delfortgroup.com/career/jobs?position=technical-experts"
+    },
+    "69f99488098b3acbfec21640": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.256570+00:00",
+      "last_seen": "2026-11-25T16:11:43.256570+00:00",
+      "notified": false,
+      "title": "Wels ,",
+      "url": "https://www.karriere.at/jobs/wels"
+    },
+    "6ca56c869d4d2a7c21d6d232": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.239280+00:00",
+      "last_seen": "2026-11-25T16:11:43.239280+00:00",
+      "notified": false,
+      "title": "Marchtrenk ,",
+      "url": "https://www.karriere.at/jobs/marchtrenk"
+    },
+    "6d03bc289411ad4789178244": {
+      "company_id": "hofer-kg",
+      "first_seen": "2026-11-25T16:11:43.220728+00:00",
+      "last_seen": "2026-11-25T16:11:43.220728+00:00",
+      "notified": false,
+      "title": "Verkaufsmitarbeiter (m/w/d)",
+      "url": "https://karriere.hofer.at/job/1402856333"
+    },
+    "6d70d1b59c0a583c80badbbb": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.216909+00:00",
+      "last_seen": "2026-11-25T16:11:43.216909+00:00",
+      "notified": false,
+      "title": "Quality (1)",
+      "url": "https://delfortgroup.com/career/jobs?position=quality"
+    },
+    "6e0ca708344ed7858522f12d": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.246781+00:00",
+      "last_seen": "2026-11-25T16:11:43.246781+00:00",
+      "notified": false,
+      "title": "Datenpol Gmbh",
+      "url": "https://www.karriere.at/f/datenpol"
+    },
+    "6f0aba10ca753d3b7778dbea": {
+      "company_id": "uar",
+      "first_seen": "2026-11-25T16:11:43.238112+00:00",
+      "last_seen": "2026-11-25T16:11:43.238112+00:00",
+      "notified": false,
+      "title": "FiveSquare GmbH",
+      "url": "https://www.karriere.at/f/fivesquare"
+    },
+    "7169c51217aa03c5770e3483": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.263401+00:00",
+      "last_seen": "2026-11-25T16:11:43.263401+00:00",
+      "notified": false,
+      "title": "Salzburg ,",
+      "url": "https://www.karriere.at/jobs/salzburg"
+    },
+    "724630388e1d29105befc1dc": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.260156+00:00",
+      "last_seen": "2026-11-25T16:11:43.260156+00:00",
+      "notified": false,
+      "title": "Ferialpraktikum Uni/FH (w/m/div.)",
+      "url": "https://www.karriere.at/jobs/7911953"
+    },
+    "72958f91b5c5a29ec51bc9cb": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.227053+00:00",
+      "last_seen": "2026-11-25T16:11:43.227053+00:00",
+      "notified": false,
+      "title": "Projektmanager*in Lüftungstechnik (m/w/d) Projektabwicklung | Gebäudetechnik | Montagekoordination ab € 3.900,- Wien Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/projektmanager-in-luftungstechnik-m-w-d"
+    },
+    "74bb4fcf7f3e0e75fbde7aa7": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.235893+00:00",
+      "last_seen": "2026-11-25T16:11:43.235893+00:00",
+      "notified": false,
+      "title": "Job World GmbH",
+      "url": "https://www.karriere.at/f/job-world"
+    },
+    "75aad0e2427f61fe1be2903a": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.255230+00:00",
+      "last_seen": "2026-11-25T16:11:43.255230+00:00",
+      "notified": false,
+      "title": "Organisationsentwicklung in Fürstenfeld",
+      "url": "https://www.karriere.at/jobs/organisationsentwicklung/f%C3%BCrstenfeld"
+    },
+    "76ce0429d09ef76bca6f148e": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.215421+00:00",
+      "last_seen": "2026-11-25T16:11:43.215421+00:00",
+      "notified": false,
+      "title": "Sales & Marketing (3)",
+      "url": "https://delfortgroup.com/career/jobs?position=sales-marketing"
+    },
+    "76e410323222eb64c1fc637d": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.226111+00:00",
+      "last_seen": "2026-11-25T16:11:43.226111+00:00",
+      "notified": false,
+      "title": "Konstrukteur*in für Schaltanlagen (m/w/d) EMSR-Systeme | Elektrokonstruktion ab € 3.200,- südliches Wien Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/konstrukteur-in-fur-schaltanlagen-m-w-d"
+    },
+    "7741a72ee067a3620983738a": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.267681+00:00",
+      "last_seen": "2026-11-25T16:11:43.267681+00:00",
+      "notified": false,
+      "title": "Leonding ,",
+      "url": "https://www.karriere.at/jobs/leonding"
+    },
+    "7880d661eb3b57a6685dedf8": {
+      "company_id": "hofer-kg",
+      "first_seen": "2026-11-25T16:11:43.219491+00:00",
+      "last_seen": "2026-11-25T16:11:43.219491+00:00",
+      "notified": false,
+      "title": "Lagermitarbeiter (m/w/d)",
+      "url": "https://karriere.hofer.at/job/1423743033"
+    },
+    "78adb021324840bda1bd3d64": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.251284+00:00",
+      "last_seen": "2026-11-25T16:11:43.251284+00:00",
+      "notified": false,
+      "title": "Salzburg (Stadt) ,",
+      "url": "https://www.karriere.at/jobs/salzburg-stadt"
+    },
+    "796f98a244e33b64fbcf15e3": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.266081+00:00",
+      "last_seen": "2026-11-25T16:11:43.266081+00:00",
+      "notified": false,
+      "title": "Hagenberg im Mühlkreis ,",
+      "url": "https://www.karriere.at/jobs/hagenberg-im-m%C3%BChlkreis"
+    },
+    "7a0f8b113054fed23849cc0c": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.239832+00:00",
+      "last_seen": "2026-11-25T16:11:43.239832+00:00",
+      "notified": false,
+      "title": "EY Österreich",
+      "url": "https://www.karriere.at/f/ey-%C3%B6sterreich"
+    },
+    "7b474db408d2c1fa5f9f73ab": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.218019+00:00",
+      "last_seen": "2026-11-25T16:11:43.218019+00:00",
+      "notified": false,
+      "title": "Procurement & Supply Chain (5)",
+      "url": "https://delfortgroup.com/career/jobs?position=procurement-supply-chain"
+    },
+    "7b9e72b88680f299df601acd": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.235681+00:00",
+      "last_seen": "2026-11-25T16:11:43.829344+00:00",
+      "notified": true,
+      "title": "KI bzw. AI Spezialist (m/w/d)",
+      "url": "https://www.karriere.at/jobs/7913192"
+    },
+    "7c7d7035200bdee009666577": {
+      "company_id": "hofer-kg",
+      "first_seen": "2026-11-25T16:11:43.220498+00:00",
+      "last_seen": "2026-11-25T16:11:43.220498+00:00",
+      "notified": false,
+      "title": "Verkaufsmitarbeiter (m/w/d)",
+      "url": "https://karriere.hofer.at/job/709072101"
+    },
+    "7e87868b5b9b3a653cd94182": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.247673+00:00",
+      "last_seen": "2026-11-25T16:11:43.247673+00:00",
+      "notified": false,
+      "title": "epunkt GmbH",
+      "url": "https://www.karriere.at/f/epunkt-linz"
+    },
+    "80e5f5ebb89bd53e3931809b": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.233083+00:00",
+      "last_seen": "2026-11-25T16:11:43.233083+00:00",
+      "notified": false,
+      "title": "Senior Atlassian Developer (w/m/d)",
+      "url": "https://www.oberbank.at/jobs/senior-atlassian-developer-16607"
+    },
+    "81829d5666977f8c4928bcf6": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.242323+00:00",
+      "last_seen": "2026-11-25T16:11:43.242323+00:00",
+      "notified": false,
+      "title": "Berufseinsteiger:in in der Wirtschaftsprüfung",
+      "url": "https://www.karriere.at/jobs/7874380"
+    },
+    "839b5853043570f4717b26b9": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.223643+00:00",
+      "last_seen": "2026-11-25T16:11:43.223643+00:00",
+      "notified": false,
+      "title": "Servicetechniker*in (m/w/d) Außendienst Wärmeanlagentechnik - Kärnten und Steiermark von 3.000 bis 3.400 Euro Oststeiermark Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/servicetechniker-in-m-w-d-aussendienst"
+    },
+    "848444e022c87ff59678aff6": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.242535+00:00",
+      "last_seen": "2026-11-25T16:11:43.242535+00:00",
+      "notified": false,
+      "title": "KPMG Österreich",
+      "url": "https://www.karriere.at/f/kpmg-%C3%B6sterreich"
+    },
+    "8710c30ce7068971382a5a45": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.253423+00:00",
+      "last_seen": "2026-11-25T16:11:43.253423+00:00",
+      "notified": false,
+      "title": "C++ in Linz",
+      "url": "https://www.karriere.at/jobs/c%2B%2B/linz"
+    },
+    "8ee4645ab38a94822abe9a9f": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.236121+00:00",
+      "last_seen": "2026-11-25T16:11:43.236121+00:00",
+      "notified": false,
+      "title": "Linz ,",
+      "url": "https://www.karriere.at/jobs/linz"
+    },
+    "91128e5f293ce59bdc2be683": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.215881+00:00",
+      "last_seen": "2026-11-25T16:11:43.215881+00:00",
+      "notified": false,
+      "title": "IT (4)",
+      "url": "https://delfortgroup.com/career/jobs?position=it"
+    },
+    "9390a23dea01bcbc8c519b27": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.232970+00:00",
+      "last_seen": "2026-11-25T16:11:43.232970+00:00",
+      "notified": false,
+      "title": "Assetmanager Jira Service Management (w/m/d)",
+      "url": "https://www.oberbank.at/jobs/assetmanager-jira-service-management-15004"
+    },
+    "959c264c9e4988400365932e": {
+      "company_id": "solvistas",
+      "first_seen": "2026-11-25T16:11:43.235163+00:00",
+      "last_seen": "2026-11-25T16:11:43.235163+00:00",
+      "notified": false,
+      "title": "Initiativ bewerben!",
+      "url": "https://solvistas-gmbh.onlyfy.jobs/application/de/apply/02dnt7y387s8fs3fa5szk4l9spke5w9"
+    },
+    "967fb788fb6e889b3f6b2ea8": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.229736+00:00",
+      "last_seen": "2026-11-25T16:11:43.229736+00:00",
+      "notified": false,
+      "title": "Global Controller*in (m/w/d) ab € 3.600,- Linz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/global-controller-in-m-w-d-fc29362b-c3ef-4f3e-9937-a5e5d582adb1"
+    },
+    "971739f687e0ebc995576345": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.263872+00:00",
+      "last_seen": "2026-11-25T16:11:43.263872+00:00",
+      "notified": false,
+      "title": "Trench Austria GmbH",
+      "url": "https://www.karriere.at/f/trench-austria"
+    },
+    "999d91db455c4fb57a77524b": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.266797+00:00",
+      "last_seen": "2026-11-25T16:11:43.266797+00:00",
+      "notified": false,
+      "title": "Pasching ,",
+      "url": "https://www.karriere.at/jobs/pasching"
+    },
+    "99dfcffe9c1af1ee2a8b61b1": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.255455+00:00",
+      "last_seen": "2026-11-25T16:11:43.255455+00:00",
+      "notified": false,
+      "title": "Assistenz Empfang in Wien",
+      "url": "https://www.karriere.at/jobs/assistenz-empfang/wien"
+    },
+    "9a1d7e16185383135d5d6e6b": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.223944+00:00",
+      "last_seen": "2026-11-25T16:11:43.223944+00:00",
+      "notified": false,
+      "title": "Full-Stack Entwickler*in C#/.NET (m/w/d) ab € 3.500,- Südliches Wien Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/full-stack-entwickler-in-c-net-m-w-d-cf26383c-c752-49c7-97f6-a9afdaf0c66d"
+    },
+    "9b57c0aad507434b5cd8fc79": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.259198+00:00",
+      "last_seen": "2026-11-25T16:11:43.259198+00:00",
+      "notified": false,
+      "title": "(Junior) ServiceNow Administrator (m/w/d)",
+      "url": "https://www.karriere.at/jobs/7906469"
+    },
+    "9c038d464f9db1c27124d8be": {
+      "company_id": "alpla",
+      "first_seen": "2026-11-25T16:11:43.214428+00:00",
+      "last_seen": "2026-11-25T16:11:43.214428+00:00",
+      "notified": false,
+      "title": "Unsere Stellenangebote",
+      "url": "https://career.alpla.com/de/jobs"
+    },
+    "a18fc5389a92b88925b47788": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.243646+00:00",
+      "last_seen": "2026-11-25T16:11:43.829354+00:00",
+      "notified": true,
+      "title": "Product Content Engineer - AI & Text Automation (m/w/d)",
+      "url": "https://www.karriere.at/jobs/7894372"
+    },
+    "a3de6b3275fdd54e92c07226": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.258937+00:00",
+      "last_seen": "2026-11-25T16:11:43.258937+00:00",
+      "notified": false,
+      "title": "KPMG Österreich",
+      "url": "https://www.karriere.at/f/kpmg-%C3%B6sterreich"
+    },
+    "a584cbc4c620ec10cd44b498": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.244773+00:00",
+      "last_seen": "2026-11-25T16:11:43.244773+00:00",
+      "notified": false,
+      "title": "Linz ,",
+      "url": "https://www.karriere.at/jobs/linz"
+    },
+    "a751f3fd312abdffa533d026": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.248569+00:00",
+      "last_seen": "2026-11-25T16:11:43.248569+00:00",
+      "notified": false,
+      "title": "Marchtrenk ,",
+      "url": "https://www.karriere.at/jobs/marchtrenk"
+    },
+    "aadba0973832a05812407c1c": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.257307+00:00",
+      "last_seen": "2026-11-25T16:11:43.257307+00:00",
+      "notified": false,
+      "title": "Ferialpraktikum 2027 (m/w/d)*",
+      "url": "https://www.karriere.at/jobs/7903312"
+    },
+    "ab0ec3924690d1f2a1406b56": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.253213+00:00",
+      "last_seen": "2026-11-25T16:11:43.253213+00:00",
+      "notified": false,
+      "title": "Linux in Linz",
+      "url": "https://www.karriere.at/jobs/linux/linz"
+    },
+    "ac5880e48573f29f29c21217": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.218646+00:00",
+      "last_seen": "2026-11-25T16:11:43.218646+00:00",
+      "notified": false,
+      "title": "Internship/Trainee/Thesis (2)",
+      "url": "https://delfortgroup.com/career/jobs?position=internship-trainee-thesis"
+    },
+    "ad0422bfbe63134c153c6914": {
+      "company_id": "kreisel-electric",
+      "first_seen": "2026-11-25T16:11:43.230524+00:00",
+      "last_seen": "2026-11-25T16:11:43.230524+00:00",
+      "notified": false,
+      "title": "Stellenangebote",
+      "url": "https://jobs.kreiselelectric.com/stellenangebote.html"
+    },
+    "adf56e69c4ea2fb72882b7a0": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.248783+00:00",
+      "last_seen": "2026-11-25T16:11:43.248783+00:00",
+      "notified": false,
+      "title": "Wels ,",
+      "url": "https://www.karriere.at/jobs/wels"
+    },
+    "ae39adae7c1a0e395d32cb1d": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.256334+00:00",
+      "last_seen": "2026-11-25T16:11:43.256334+00:00",
+      "notified": false,
+      "title": "Wien ,",
+      "url": "https://www.karriere.at/jobs/wien"
+    },
+    "af1fa737d647ed9028363ae0": {
+      "company_id": "tgw-logistics",
+      "first_seen": "2026-11-25T16:11:43.239072+00:00",
+      "last_seen": "2026-11-25T16:11:43.239072+00:00",
+      "notified": false,
+      "title": "TGW Logistics GmbH",
+      "url": "https://www.karriere.at/f/tgw-logistics-group"
+    },
+    "afafad9fd3f40fb7e503f6ac": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.216129+00:00",
+      "last_seen": "2026-11-25T16:11:43.216129+00:00",
+      "notified": false,
+      "title": "Other (2)",
+      "url": "https://delfortgroup.com/career/jobs?position=other"
+    },
+    "b090fd0339d4c554a74da39d": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.230302+00:00",
+      "last_seen": "2026-11-25T16:11:43.230302+00:00",
+      "notified": false,
+      "title": "MSR-Servicetechniker*in (m/w/d) ab € 3.200,- Linz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/msr-servicetechniker-in-m-w-d-4fa8fbb6-8536-446a-845d-655f2335a2f8"
+    },
+    "b179b6fdefebb37b33f0c317": {
+      "company_id": "infineon-at",
+      "first_seen": "2026-11-25T16:11:43.260850+00:00",
+      "last_seen": "2026-11-25T16:11:43.260850+00:00",
+      "notified": false,
+      "title": "Infineon Technologies Austria AG",
+      "url": "https://www.karriere.at/f/infineon-technologies-austria"
+    },
+    "b1af0a4e79e7dd2ddd0a7558": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.240850+00:00",
+      "last_seen": "2026-11-25T16:11:43.240850+00:00",
+      "notified": false,
+      "title": "AI Platform Engineer (w/m/d)",
+      "url": "https://www.karriere.at/jobs/10032514"
+    },
+    "b35a12741fe5d51da805b2ff": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.255528+00:00",
+      "last_seen": "2026-11-25T16:11:43.255528+00:00",
+      "notified": false,
+      "title": "Teamleiter Einkauf in Steiermark",
+      "url": "https://www.karriere.at/jobs/teamleiter-einkauf/steiermark"
+    },
+    "b5e1111aa9cab3fd4a199f36": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.246065+00:00",
+      "last_seen": "2026-11-25T16:11:43.246065+00:00",
+      "notified": false,
+      "title": "AGILOX Services GmbH",
+      "url": "https://www.karriere.at/f/agilox-services"
+    },
+    "b6da097dc5d7e6269c5b3296": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.244121+00:00",
+      "last_seen": "2026-11-25T16:11:43.244121+00:00",
+      "notified": false,
+      "title": "Python",
+      "url": "https://www.karriere.at/jobs/python"
+    },
+    "bbe76c395a3e790dd1d6e3ad": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.241554+00:00",
+      "last_seen": "2026-11-25T16:11:43.241554+00:00",
+      "notified": false,
+      "title": "Graz ,",
+      "url": "https://www.karriere.at/jobs/graz"
+    },
+    "bd7bba2292baec85e7bbb6ea": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.267089+00:00",
+      "last_seen": "2026-11-25T16:11:43.267089+00:00",
+      "notified": false,
+      "title": "Werkstudent im Bereich Embedded C++ Software Engineering (m/w/d)",
+      "url": "https://www.karriere.at/jobs/7902508"
+    },
+    "bd825cc43459af76f32329c8": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.230026+00:00",
+      "last_seen": "2026-11-25T16:11:43.230026+00:00",
+      "notified": false,
+      "title": "Projektleiter*in (m/w/d) - HKLS ab € 3.800,- Linz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/projektleiter-in-m-w-d-hkls-5b44ba80-725d-4ed7-8166-341bfa9eefa3"
+    },
+    "bd84e257f064a7a853ec968b": {
+      "company_id": "hofer-kg",
+      "first_seen": "2026-11-25T16:11:43.219972+00:00",
+      "last_seen": "2026-11-25T16:11:43.219972+00:00",
+      "notified": false,
+      "title": "Verkaufsmitarbeiter (m/w/d)",
+      "url": "https://karriere.hofer.at/job/600671901"
+    },
+    "bfc669f8ddf2d6105c7a4023": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.265648+00:00",
+      "last_seen": "2026-11-25T16:11:43.265648+00:00",
+      "notified": false,
+      "title": "Werkstudent im Bereich Security Engineering (m/w/d)",
+      "url": "https://www.karriere.at/jobs/7905521"
+    },
+    "c0916695cbf4fa5b81963316": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.215654+00:00",
+      "last_seen": "2026-11-25T16:11:43.215654+00:00",
+      "notified": false,
+      "title": "R&D (0)",
+      "url": "https://delfortgroup.com/career/jobs?position=research-development"
+    },
+    "c4a5371baf425518cdba016b": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.264379+00:00",
+      "last_seen": "2026-11-25T16:11:43.264379+00:00",
+      "notified": false,
+      "title": "Industriepraktikum - Hardware-Software-Design (Dual Study Kooperation FH)",
+      "url": "https://www.karriere.at/jobs/7897909"
+    },
+    "c7c9310a3eb32116b9dfc86c": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.241845+00:00",
+      "last_seen": "2026-11-25T16:11:43.241845+00:00",
+      "notified": false,
+      "title": "KI-Spezialist (m/w/d)",
+      "url": "https://www.karriere.at/jobs/7901500"
+    },
+    "c8fea21213f17cdd2052770b": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.250123+00:00",
+      "last_seen": "2026-11-25T16:11:43.250123+00:00",
+      "notified": false,
+      "title": "Pasching ,",
+      "url": "https://www.karriere.at/jobs/pasching"
+    },
+    "ca870b12b512b88d751f9af6": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.247899+00:00",
+      "last_seen": "2026-11-25T16:11:43.247899+00:00",
+      "notified": false,
+      "title": "Perg ,",
+      "url": "https://www.karriere.at/jobs/perg"
+    },
+    "cb99655a11ddd1d5a18c78ae": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.226675+00:00",
+      "last_seen": "2026-11-25T16:11:43.226675+00:00",
+      "notified": false,
+      "title": "Qualitätsmanager*in (m/w/d) ab € 4.000,- Linz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/qualitatsmanager-in-m-w-d-005b82a4-03bf-46e1-adb8-526af1a650ac"
+    },
+    "cbe10b3e65e2242618923464": {
+      "company_id": "fabasoft",
+      "first_seen": "2026-11-25T16:11:43.219014+00:00",
+      "last_seen": "2026-11-25T16:11:43.219014+00:00",
+      "notified": false,
+      "title": "Initiativbewerbung Du denkst grenzenlos wie wir und bist offen für Neues? Dann lass uns reden.",
+      "url": "https://www.fabasoft.com/de/karriere/jobs/initiativbewerbung"
+    },
+    "ce4845b214d3c5adbe44ed02": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.254973+00:00",
+      "last_seen": "2026-11-25T16:11:43.254973+00:00",
+      "notified": false,
+      "title": "Fußpfleger in Wien",
+      "url": "https://www.karriere.at/jobs/fu%C3%9Fpfleger/wien"
+    },
+    "cfca23170ad5be497f54e11f": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.250804+00:00",
+      "last_seen": "2026-11-25T16:11:43.250804+00:00",
+      "notified": false,
+      "title": "Data Analytics Engineer (f/m/d)",
+      "url": "https://www.karriere.at/jobs/10040071"
+    },
+    "d030a52d343e2ef45bc95b78": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.217448+00:00",
+      "last_seen": "2026-11-25T16:11:43.217448+00:00",
+      "notified": false,
+      "title": "Finance & Controlling (4)",
+      "url": "https://delfortgroup.com/career/jobs?position=finance-controlling"
+    },
+    "d0bd01a359de50642c90a79b": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.234445+00:00",
+      "last_seen": "2026-11-25T16:11:43.234445+00:00",
+      "notified": false,
+      "title": "General Banker:in (w/m/d)",
+      "url": "https://www.oberbank.at/jobs/general-banker-in-18104"
+    },
+    "d140241dea6b440754676adb": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.217723+00:00",
+      "last_seen": "2026-11-25T16:11:43.217723+00:00",
+      "notified": false,
+      "title": "HR (1)",
+      "url": "https://delfortgroup.com/career/jobs?position=hr"
+    },
+    "d144f46cd73b6c0e7a038afd": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.232625+00:00",
+      "last_seen": "2026-11-25T16:11:43.232625+00:00",
+      "notified": false,
+      "title": "Karrierechance: General Banker:in (w/m/d)",
+      "url": "https://www.oberbank.at/jobs/karrierechance-general-banker-in-18107"
+    },
+    "d14cb1e05004f8aa084c48ec": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.240622+00:00",
+      "last_seen": "2026-11-25T16:11:43.240622+00:00",
+      "notified": false,
+      "title": "Salzburg (Stadt) ,",
+      "url": "https://www.karriere.at/jobs/salzburg-stadt"
+    },
+    "d17d785625fe6d5669c99216": {
+      "company_id": "rlb-ooe",
+      "first_seen": "2026-11-25T16:11:43.234679+00:00",
+      "last_seen": "2026-11-25T16:11:43.234679+00:00",
+      "notified": false,
+      "title": "Jetzt deinen Job finden",
+      "url": "https://www.raiffeisen.at/ooe/de/karriere-bei-raiffeisen/stellenangebote.html"
+    },
+    "d236113c3e23d63c891f3c86": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.240372+00:00",
+      "last_seen": "2026-11-25T16:11:43.240372+00:00",
+      "notified": false,
+      "title": "Michael Page International Austria GmbH",
+      "url": "https://www.karriere.at/f/michael-page-international-austria"
+    },
+    "d3d4cc898aeebfab825a261f": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.236905+00:00",
+      "last_seen": "2026-11-25T16:11:43.236905+00:00",
+      "notified": false,
+      "title": "Neukirchen bei Lambach ,",
+      "url": "https://www.karriere.at/jobs/neukirchen-bei-lambach"
+    },
+    "d62b3fecc9ca8c0ee9220a50": {
+      "company_id": "hofer-kg",
+      "first_seen": "2026-11-25T16:11:43.220262+00:00",
+      "last_seen": "2026-11-25T16:11:43.220262+00:00",
+      "notified": false,
+      "title": "Verkaufsmitarbeiter (m/w/d)",
+      "url": "https://karriere.hofer.at/job/708195801"
+    },
+    "d9940cd000267cb6c4c22c05": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.245838+00:00",
+      "last_seen": "2026-11-25T16:11:43.245838+00:00",
+      "notified": false,
+      "title": "AI Platform Engineer (w/m/d)",
+      "url": "https://www.karriere.at/jobs/10032514"
+    },
+    "daab331bd3c8f5da000e3b29": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.251038+00:00",
+      "last_seen": "2026-11-25T16:11:43.251038+00:00",
+      "notified": false,
+      "title": "MYFLEXBOX Austria GmbH",
+      "url": "https://www.karriere.at/f/myflexbox-austria"
+    },
+    "dbd1c8685c0098be1e3534aa": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.245617+00:00",
+      "last_seen": "2026-11-25T16:11:43.829362+00:00",
+      "notified": true,
+      "title": "Software Engineer Python mit Schwerpunkt Knowledge Graphs & Schema-Automatisierung (w/m/div.)",
+      "url": "https://www.karriere.at/jobs/7912010"
+    },
+    "dd5d793416d3b77985d1c3b8": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.259693+00:00",
+      "last_seen": "2026-11-25T16:11:43.259693+00:00",
+      "notified": false,
+      "title": "Praktikant:in im Prozessmanagement (w/m/d), Teilzeit (25-30 Stunden)",
+      "url": "https://www.karriere.at/jobs/7902139"
+    },
+    "dd74ebf6b7270504220fde29": {
+      "company_id": "hofer-kg",
+      "first_seen": "2026-11-25T16:11:43.219262+00:00",
+      "last_seen": "2026-11-25T16:11:43.219262+00:00",
+      "notified": false,
+      "title": "Lagermitarbeiter (m/w/d)",
+      "url": "https://karriere.hofer.at/job/807757701"
+    },
+    "de9e27bbc6cd4c85d917b78c": {
+      "company_id": "fabasoft",
+      "first_seen": "2026-11-25T16:11:43.238612+00:00",
+      "last_seen": "2026-11-25T16:11:43.238612+00:00",
+      "notified": false,
+      "title": "Fabasoft",
+      "url": "https://www.karriere.at/f/fabasoft"
+    },
+    "deb4c046ced4ad493f1a59d2": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.266599+00:00",
+      "last_seen": "2026-11-25T16:11:43.266599+00:00",
+      "notified": false,
+      "title": "TRUMPF Maschinen Austria GmbH & Co. KG",
+      "url": "https://www.karriere.at/f/trumpf-maschinen-austria-co"
+    },
+    "e15d9a4a74c6ccd7c02aba73": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.236647+00:00",
+      "last_seen": "2026-11-25T16:11:43.236647+00:00",
+      "notified": false,
+      "title": "AGILOX Services GmbH",
+      "url": "https://www.karriere.at/f/agilox-services"
+    },
+    "e18ec81a0777df7b6c699682": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.225381+00:00",
+      "last_seen": "2026-11-25T16:11:43.225381+00:00",
+      "notified": false,
+      "title": "Mitarbeiter*in Vertriebsinnendienst (m/w/d) Auftragsabwicklung und Kundenservice von 4.000 bis 4.800 Euro Graz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/mitarbeiter-in-vertriebsinnendienst-m-w-d"
+    },
+    "e247b76a0c0f83542664970b": {
+      "company_id": "oberbank",
+      "first_seen": "2026-11-25T16:11:43.233831+00:00",
+      "last_seen": "2026-11-25T16:11:43.233831+00:00",
+      "notified": false,
+      "title": "Jurist:in für Datenschutz und Suppliermanagement (w/m/d)",
+      "url": "https://www.oberbank.at/jobs/jurist-in-fuer-datenschutz-und-suppliermanagement-18106"
+    },
+    "e355c88b790bfc6ed718adec": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.251541+00:00",
+      "last_seen": "2026-11-25T16:11:43.251541+00:00",
+      "notified": false,
+      "title": "Analytics Engineer (m/w/d) — BI & Data Products",
+      "url": "https://www.karriere.at/jobs/10040106"
+    },
+    "e43b82ad75c5b5a2796f2d71": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.228039+00:00",
+      "last_seen": "2026-11-25T16:11:43.228039+00:00",
+      "notified": false,
+      "title": "OT-Manager*in (m/w/d) ab € 6.400,- Linz Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/ot-manager-in-m-w-d"
+    },
+    "e4a5f471132b548430f09c08": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.241626+00:00",
+      "last_seen": "2026-11-25T16:11:43.241626+00:00",
+      "notified": false,
+      "title": "Senior AI Engineer (w/m/d)",
+      "url": "https://www.karriere.at/jobs/10038474"
+    },
+    "e61850e56fbb76aa8517cd6b": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.255765+00:00",
+      "last_seen": "2026-11-25T16:11:43.829367+00:00",
+      "notified": true,
+      "title": "Praktikum IT",
+      "url": "https://www.karriere.at/jobs/praktikum-it"
+    },
+    "e64dae11b58bb7042ca5e631": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.252264+00:00",
+      "last_seen": "2026-11-25T16:11:43.252264+00:00",
+      "notified": false,
+      "title": "Energie AG Oberösterreich",
+      "url": "https://www.karriere.at/f/energie-ober%C3%B6sterreich-linz"
+    },
+    "e6551217adc3c518c26f41e3": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.216675+00:00",
+      "last_seen": "2026-11-25T16:11:43.216675+00:00",
+      "notified": false,
+      "title": "Maintenance (5)",
+      "url": "https://delfortgroup.com/career/jobs?position=maintenance"
+    },
+    "e735d471bba4d9629a8f79aa": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.228397+00:00",
+      "last_seen": "2026-11-25T16:11:43.228397+00:00",
+      "notified": false,
+      "title": "Techniker*in Qualitätsprüfung (m/w/d) Messtechnik und Dokumentation von 3.500 bis 4.300 Euro Graz Umgebung-Ost Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/techniker-in-qualitatsprufung-m-w-d"
+    },
+    "e84c9a4152bc1c12cafc79cd": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.224245+00:00",
+      "last_seen": "2026-11-25T16:11:43.224245+00:00",
+      "notified": false,
+      "title": "Projektleiter*in (m/w/d) Tiefbau ab € 3.700,- Bezirk Baden Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/projektleiter-in-m-w-d-a997c488-90d9-44dd-8366-78990bc72526"
+    },
+    "e9713863fdcc7ebb0d009296": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.238332+00:00",
+      "last_seen": "2026-11-25T16:11:43.238332+00:00",
+      "notified": false,
+      "title": "Wien ,",
+      "url": "https://www.karriere.at/jobs/wien"
+    },
+    "ebdd88e7946ef7e17597c847": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.244580+00:00",
+      "last_seen": "2026-11-25T16:11:43.244580+00:00",
+      "notified": false,
+      "title": "BEKO Solutions GmbH",
+      "url": "https://www.karriere.at/f/beko-engineering-informatik-wien"
+    },
+    "ed0cc6e6e57fc2e91fe4951d": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.262202+00:00",
+      "last_seen": "2026-11-25T16:11:43.262202+00:00",
+      "notified": false,
+      "title": "HTL-Absolvent*in",
+      "url": "https://www.karriere.at/jobs/7909934"
+    },
+    "ee3f4e1824e40236284a4769": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.218393+00:00",
+      "last_seen": "2026-11-25T16:11:43.218393+00:00",
+      "notified": false,
+      "title": "Apprenticeship/Lehre/Ausbildung (2)",
+      "url": "https://delfortgroup.com/career/jobs?position=apprenticeship-lehre-ausbildung"
+    },
+    "f0a6d37a90248c467de2d56e": {
+      "company_id": "karriere-at-4",
+      "first_seen": "2026-11-25T16:11:43.267485+00:00",
+      "last_seen": "2026-11-25T16:11:43.267485+00:00",
+      "notified": false,
+      "title": "Linz ,",
+      "url": "https://www.karriere.at/jobs/linz"
+    },
+    "f402962edbadc6322d6caf88": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.261134+00:00",
+      "last_seen": "2026-11-25T16:11:43.261134+00:00",
+      "notified": false,
+      "title": "Villach ,",
+      "url": "https://www.karriere.at/jobs/villach"
+    },
+    "f536fda1b6240708cfd1b562": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.257072+00:00",
+      "last_seen": "2026-11-25T16:11:43.257072+00:00",
+      "notified": false,
+      "title": "München ,",
+      "url": "https://www.karriere.at/jobs/m%C3%BCnchen"
+    },
+    "f5da6044bf901cb6e4bbeb28": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.264090+00:00",
+      "last_seen": "2026-11-25T16:11:43.264090+00:00",
+      "notified": false,
+      "title": "Leonding ,",
+      "url": "https://www.karriere.at/jobs/leonding"
+    },
+    "f5df6904ad4e375f081b89c9": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.229125+00:00",
+      "last_seen": "2026-11-25T16:11:43.229125+00:00",
+      "notified": false,
+      "title": "Projekttechniker*in Gebäudetechnik (m/w/d) HKLS | Planung | Projektkoordination ab € 2.900,- Wien Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/projekttechniker-in-gebaudetechnik-m-w-d-c584263c-43f0-41ff-a493-7db7765819db"
+    },
+    "f619fff3fd03b12edf6b260f": {
+      "company_id": "delfort",
+      "first_seen": "2026-11-25T16:11:43.218297+00:00",
+      "last_seen": "2026-11-25T16:11:43.218297+00:00",
+      "notified": false,
+      "title": "Administration/Back Office/Assistant (2)",
+      "url": "https://delfortgroup.com/career/jobs?position=administration-back-office-assistant"
+    },
+    "f6eacf53f96819aca439d3bc": {
+      "company_id": "ivm",
+      "first_seen": "2026-11-25T16:11:43.221653+00:00",
+      "last_seen": "2026-11-25T16:11:43.221653+00:00",
+      "notified": false,
+      "title": "Konstrukteur*in (m/w/d) ab € 3.400,- Kirchdorf an der Krems Vollzeit",
+      "url": "https://jobs.ivm.at/de/jobs/konstrukteur-in-m-w-d-34edf7cf-3d94-4d1e-b199-b3aa896a9d31"
+    },
+    "f85be70b06454bccd1c354e6": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.250572+00:00",
+      "last_seen": "2026-11-25T16:11:43.250572+00:00",
+      "notified": false,
+      "title": "EY Österreich",
+      "url": "https://www.karriere.at/f/ey-%C3%B6sterreich"
+    },
+    "f8ceae986b9513944ed2a7a6": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.264931+00:00",
+      "last_seen": "2026-11-25T16:11:43.264931+00:00",
+      "notified": false,
+      "title": "Teamlead Legal Services & Senior Legal Counsel",
+      "url": "https://www.karriere.at/jobs/7891906"
+    },
+    "f981723a912a8e18e6613666": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.256804+00:00",
+      "last_seen": "2026-11-25T16:11:43.256804+00:00",
+      "notified": false,
+      "title": "Linz ,",
+      "url": "https://www.karriere.at/jobs/linz"
+    },
+    "fac194d192ef012c42d923c9": {
+      "company_id": "karriere-at-2",
+      "first_seen": "2026-11-25T16:11:43.249636+00:00",
+      "last_seen": "2026-11-25T16:11:43.249636+00:00",
+      "notified": false,
+      "title": "Digitalisierungsingenieur / Smart Production Engineer (w/m/d)",
+      "url": "https://www.karriere.at/jobs/7883143"
+    },
+    "fb3f076956a1545340cb6fce": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.235448+00:00",
+      "last_seen": "2026-11-25T16:11:43.235448+00:00",
+      "notified": false,
+      "title": "Artificial Intelligence",
+      "url": "https://www.karriere.at/jobs/artificial-intelligence"
+    },
+    "fbacc0b4860f55063fe75904": {
+      "company_id": "karriere-at-1",
+      "first_seen": "2026-11-25T16:11:43.238842+00:00",
+      "last_seen": "2026-11-25T16:11:43.238842+00:00",
+      "notified": false,
+      "title": "Data and AI Manager (m/w/d)*",
+      "url": "https://www.karriere.at/jobs/7842431"
+    },
+    "fde619b8870ef054924f707b": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.259410+00:00",
+      "last_seen": "2026-11-25T16:11:43.259410+00:00",
+      "notified": false,
+      "title": "Swietelsky AG",
+      "url": "https://www.karriere.at/f/swietelsky"
+    },
+    "fdf90b369bbdbbfe92953c28": {
+      "company_id": "karriere-at-3",
+      "first_seen": "2026-11-25T16:11:43.264642+00:00",
+      "last_seen": "2026-11-25T16:11:43.264642+00:00",
+      "notified": false,
+      "title": "Jurist:in für Datenschutz und Suppliermanagement (w/m/d)",
+      "url": "https://www.karriere.at/jobs/7913798"
+    }
+  },
+  "last_run": "2026-11-25T16:11:44.469905+00:00",
+  "version": 1
 }
